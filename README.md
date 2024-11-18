@@ -15,16 +15,16 @@
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+<img src="https://github.com/2024-2-NCC4/Projeto2/blob/main/imagens/Capa_PI.png" alt="SmartTravel Insights" border="0">
+  SmartTravel Insights </a>
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+Nosso projeto de data science foi desenvolvido com o objetivo de fornecer insights estratégicos sobre o impacto dos feriados nacionais no turismo brasileiro, oferecendo soluções baseadas em dados para otimizar o desempenho de agências de turismo, hotéis e empresas do setor. Através da análise detalhada de informações históricas e tendências de mercado, buscamos identificar padrões de comportamento dos viajantes, otimizar a logística de destinos turísticos e aumentar a rentabilidade das empresas.
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
+Nossa plataforma apresenta dados valiosos sobre o fluxo de viagens durante os principais feriados do ano, o impacto financeiro nas reservas de hospedagem e passagens aéreas, e como os feriados que caem nos finais de semana podem afetar a demanda. Além disso, analisamos o tráfego aéreo nos principais aeroportos, oferecendo recomendações para melhor distribuição de voos e redução de atrasos.
 <br><br>
-May the force be with you!
+Ao fornecer essas informações estratégicas, nossa missão é transformar o setor turístico brasileiro, tornando-o mais eficiente, rentável e capaz de oferecer uma experiência ainda mais agradável para os viajantes. Com base em dados, buscamos contribuir para um turismo mais inteligente, que beneficie tanto as empresas quanto os turistas, e, ao mesmo tempo, impulsione a economia nacional.
 <br><br>
 
 ## 🛠 Estrutura de pastas
