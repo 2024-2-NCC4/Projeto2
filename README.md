@@ -36,7 +36,7 @@ Ao fornecer essas informações estratégicas, nossa missão é transformar o se
   &emsp;|-->Entrega 2<br>
   &emsp;|-->Entrega 3<br>
   &emsp;|-->Entrega 4<br>
-  &emsp;|API SmartTravel<br>
+  &emsp;|-->API SmartTravel<br>
   &emsp;|-->Relatório<br>
 |-->imagens<br>
 |-->src<br>
