@@ -16,7 +16,7 @@
 
 <p align="center">
 <img src="https://github.com/2024-2-NCC4/Projeto2/blob/main/imagens/Capa_PI.png" alt="SmartTravel Insights" border="0">
-  SmartTravel Insights </a>
+<p align="center">SmartTravel Insights</p></a>
 </p>
 
 
